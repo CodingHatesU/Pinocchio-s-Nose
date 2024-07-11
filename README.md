@@ -1,2 +1,2 @@
-# Pinocchio-s-Nose
+# Pinocchios-Nose
 A deepfake detection program
